@@ -1,5 +1,8 @@
 # http://www.gnu.org/software/automake
 
+# vim swap file
+*.swp
+
 Makefile.in
 /ar-lib
 /mdate-sh
